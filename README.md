@@ -6,8 +6,9 @@ This repo will be most helpful to you if you have already taken a data structure
 
 If you haven't, try one of these:
 
-[Abdul Bari's Algorithms course is excellent](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
-[MIT 2011 algorithms course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2&t=0s)
+- [Abdul Bari's Algorithms course is excellent](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+
+- [MIT 2011 algorithms course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2&t=0s)
 
 "When I consider everything that grows
 
