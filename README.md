@@ -9,15 +9,15 @@ Holds in perfection but a little moment;"
 LeetCode Problems solved 37:
 
 ## Tasks:
-[] Review sorting algorithms by recreating (only check off when you can recreate from memory)
-  [] [Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw)
-  [] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
-  [] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
+-[] Review sorting algorithms by recreating (only check off when you can recreate from memory)
+ -[] [Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw)
+ -[] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
+ -[] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
 
-[] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+-[] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
 
 
 ## LeetCode Patterns
-[]
+-[]
 
