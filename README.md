@@ -10,10 +10,11 @@ If you haven't, try one of these:
 
 - [MIT 2011 algorithms course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2&t=0s)
 
+
 "When I consider everything that grows<br>
 Holds in perfection but a little moment;"
 
-LeetCode Problems solved 37:
+LeetCode Problems solved **37**:
 
 ## Tasks:
 - [ ] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) (briefly read through)
