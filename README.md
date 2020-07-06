@@ -36,6 +36,9 @@ LeetCode Problems solved **37**:
   - [x] K-way Merge (Merge K Sorted Lists)
   - [x] Topological sort (Task scheduling)
   
+- [ ] Review any data structures with weak understanding
+   - [ ] [Hash Table](https://www.youtube.com/watch?v=mFY0J5W8Udk)
+   
 - [ ] Review sorting algorithms by recreating (only check off when you can recreate from memory)
   - [ ] [Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw)
   - [ ] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
