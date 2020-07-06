@@ -1,5 +1,7 @@
 # Coding-Interview-Prep
 
+How to Use:
+- clear all 'x's from brackets
 
 This repo will help me track my progress as well as serve as a place to summarize my notes as I prepare for coding interviews. 
 
