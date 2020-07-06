@@ -2,7 +2,7 @@
 
 This repo will help me track my progress as well as serve as a place to summarize my notes as I prepare for coding interviews. 
 
-This repo will be most helpful to you if you have already taken a data structure and algorithms course or are familiar with them.
+This repo will be most helpful to you if you have already taken a data structure and algorithms course or are familiar with those concepts.
 
 If you haven't, try one of these:
 
@@ -18,8 +18,10 @@ LeetCode Problems solved **37**:
 
 ## Tasks:
 - [ ] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) (briefly read through)
-  - [ ] sliding window
-  - [ ] Two Pointers or Iterators
+  - [ ] sliding window (Maximum sum subarray of size 'K')
+  - [ ] Two Pointers or Iterators (Square a sorted array) (usually sorted array or datastructure)
+  - [ ] Fast and Slow pointers (Palindrome Linked List, Determine if cycle)
+  - [ ] Merge Intervals (Intervals Intersection)
   - [ ] 
 
 - [ ] Review sorting algorithms by recreating (only check off when you can recreate from memory)
