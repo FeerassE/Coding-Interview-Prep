@@ -43,5 +43,4 @@ LeetCode Problems solved **37**:
   
 
 ## LeetCode Patterns
-- [ ]
 
