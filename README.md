@@ -10,8 +10,7 @@ If you haven't, try one of these:
 
 - [MIT 2011 algorithms course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2&t=0s)
 
-"When I consider everything that grows
-
+"When I consider everything that grows<br>
 Holds in perfection but a little moment;"
 
 LeetCode Problems solved 37:
@@ -26,10 +25,7 @@ LeetCode Problems solved 37:
   - [ ] [Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw)
   - [ ] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
   - [ ] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
-      - [ ] whwat
-
-
-
+  
 
 ## LeetCode Patterns
 - [ ]
