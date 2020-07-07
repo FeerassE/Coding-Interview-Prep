@@ -38,9 +38,10 @@ LeetCode Problems solved **38**:
   - [x] Top K elements (ex: Top ‘K’ Numbers)
   - [x] K-way Merge (Merge K Sorted Lists)
   - [x] Topological sort (Task scheduling)
-   
+
+- [ ] [Review Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw) (only check off when you can recreate from memory)
+
 - [ ] Review sorting algorithms by recreating (only check off when you can recreate from memory)
-  - [ ] [Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw)
   - [ ] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
   - [ ] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
   
