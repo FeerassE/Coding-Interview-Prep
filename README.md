@@ -41,6 +41,8 @@ LeetCode Problems solved **38**:
 
 - [ ] [Review Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw) (only check off when you can recreate from memory)
 
+- [ ] [Review Breadth First and Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk) (only check off when you can recreate from memory)
+
 - [ ] Review sorting algorithms by recreating (only check off when you can recreate from memory)
   - [ ] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
   - [ ] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
