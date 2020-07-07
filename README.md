@@ -53,14 +53,18 @@ ASCII values:
 
 ## Java Specific Info
 
-Sort an array
+Sort an array<br>
 ```Arrays.sort(nameOfArray);```
 
-List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.
-
+List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.<br>
 ``` List<String> myList = new ArrayList<String>(); ```
 
-``` Map<String, Integer> myHashMap = new HashMap<String, Integer>(); ```
+Sets:<br>
+``` Set<Integer> set = new HashSet<Integer>(); ``` <br>
+associated functions: contains(value);
+
+Maps<br>
+``` Map<String, Integer> myHashMap = new HashMap<String, Integer>(); // key value pairs```
 
 ## LeetCode Patterns and Strategies
 
