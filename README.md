@@ -49,8 +49,8 @@ LeetCode Problems solved **38**:
 List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.
 
 ``` List<String> myList = new ArrayList<String>(); ```
+
 ``` Map<String, Integer> myHashMap = new HashMap<String, Integer>(); ```
-``` 
 
 ## LeetCode Patterns
 
