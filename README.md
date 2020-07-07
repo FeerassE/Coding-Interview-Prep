@@ -23,7 +23,7 @@ LeetCode Problems solved **38**:
 - [ ] Review any data structures with weak understanding
    - [ ] [Hash Table](https://www.youtube.com/watch?v=mFY0J5W8Udk)
 
-- [ ] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) (**briefly** read through)
+- [x] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) (**briefly** read through)
   - [x] sliding window (ex: Maximum sum subarray of size 'K')
   - [x] Two Pointers or Iterators (ex: Square a sorted array) (usually sorted array or datastructure)
   - [x] Fast and Slow pointers (ex: Palindrome Linked List, Determine if cycle)
