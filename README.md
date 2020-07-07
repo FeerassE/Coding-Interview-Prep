@@ -17,10 +17,13 @@ If you haven't, try one of these:
 "When I consider everything that grows<br>
 Holds in perfection but a little moment;"
 
-LeetCode Problems solved **37**:
+LeetCode Problems solved **38**:
 
 ## Tasks:
-- [ ] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) (briefly read through)
+- [ ] Review any data structures with weak understanding
+   - [ ] [Hash Table](https://www.youtube.com/watch?v=mFY0J5W8Udk)
+
+- [ ] [Review coding patterns article](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed) (**briefly** read through)
   - [x] sliding window (ex: Maximum sum subarray of size 'K')
   - [x] Two Pointers or Iterators (ex: Square a sorted array) (usually sorted array or datastructure)
   - [x] Fast and Slow pointers (ex: Palindrome Linked List, Determine if cycle)
@@ -35,15 +38,18 @@ LeetCode Problems solved **37**:
   - [x] Top K elements (ex: Top ‘K’ Numbers)
   - [x] K-way Merge (Merge K Sorted Lists)
   - [x] Topological sort (Task scheduling)
-  
-- [ ] Review any data structures with weak understanding
-   - [ ] [Hash Table](https://www.youtube.com/watch?v=mFY0J5W8Udk)
    
 - [ ] Review sorting algorithms by recreating (only check off when you can recreate from memory)
   - [ ] [Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw)
   - [ ] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
   - [ ] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
   
+
+## Java Specific Info
+List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.
+
+``` List<String> myList = new ArrayList<String>(); ```
+
 
 ## LeetCode Patterns
 
