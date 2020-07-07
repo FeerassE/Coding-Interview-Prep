@@ -46,12 +46,23 @@ LeetCode Problems solved **38**:
   - [ ] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
   
 
+## Miscellaneous Info
+ASCII values:
+- lowercase 'a': decimal 97
+- uppercase 'A': decimal 65
+
 ## Java Specific Info
+
+Sort an array
+```Arrays.sort(nameOfArray);```
+
 List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.
 
 ``` List<String> myList = new ArrayList<String>(); ```
 
 ``` Map<String, Integer> myHashMap = new HashMap<String, Integer>(); ```
 
-## LeetCode Patterns
+## LeetCode Patterns and Strategies
 
+Comparing Two Strings:
+- use a frequency map
