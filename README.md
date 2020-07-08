@@ -56,14 +56,15 @@ Sort an array<br>
 ```Arrays.sort(nameOfArray);```
 
 List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.<br>
-``` List<String> myList = new ArrayList<String>(); ```
-``` myList.get(0); // Access first element ```
-``` myList.add(5); // Add five as an element ```
+``` List<String> myList = new ArrayList<String>(); ```<br>
+``` myList.get(0); // Access first element ```<br>
+``` myList.add(5); // Add five as an element ```<br>
+``` myList.remove(0); // Remove first element ```<br>
 
-2D Arrays
+2D Arrays<br>
 ``` List<List<Integer>> list = new ArrayList<List<Integer>>(); ```<br>
-Then add rows when necessary
-``` list.add(new ArrayList<Integer>()); ```
+Then add rows when necessary<br>
+``` list.add(new ArrayList<Integer>()); ```<br>
 
 
 
