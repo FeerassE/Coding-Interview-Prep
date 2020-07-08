@@ -57,6 +57,15 @@ Sort an array<br>
 
 List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.<br>
 ``` List<String> myList = new ArrayList<String>(); ```
+``` myList.get(0); // Access first element ```
+``` myList.add(5); // Add five as an element ```
+
+2D Arrays
+``` List<List<Integer>> list = new ArrayList<List<Integer>>(); ```<br>
+Then add rows when necessary
+``` list.add(new ArrayList<Integer>()); ```
+
+
 
 Sets:<br>
 ``` Set<Integer> set = new HashSet<Integer>(); ``` <br>
