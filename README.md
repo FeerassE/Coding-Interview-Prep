@@ -50,6 +50,18 @@ ASCII values:
 - lowercase 'a': decimal 97
 - uppercase 'A': decimal 65
 
+BitWise Operations:
+XOR(^):<br>
+1 ^ 1 = 0<br>
+0 ^ 0 = 0<br>
+1 ^ 0 = 1<br>
+0 ^ 1 = 1<br>
+
+a ^ b = c<br>
+c ^ a = b<br>
+c ^ b = a<br>
+
+
 ## Java Specific Info
 Math Functions:<br>
 ``` Math.pow(a,b); // returns a double, so make sure to type cast to int (int) ```<br>
