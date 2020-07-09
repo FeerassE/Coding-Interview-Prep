@@ -51,7 +51,8 @@ ASCII values:
 - uppercase 'A': decimal 65
 
 ## Java Specific Info
-
+Math Functions:<br>
+``` Math.pow(a,b); // returns a double, so make sure to type cast to int (int) ```<br>
 Sort an array<br>
 ```Arrays.sort(nameOfArray);```
 
