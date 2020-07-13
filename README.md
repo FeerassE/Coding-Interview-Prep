@@ -73,6 +73,7 @@ List is an interface in Java. You need to instantiate the actual implementation,
 ``` myList.get(0); // Access first element ```<br>
 ``` myList.add(5); // Add five as an element ```<br>
 ``` myList.remove(0); // Remove first element ```<br>
+``` myList.size(); // Gets the Length ```<br>
 
 2D Arrays<br>
 ``` List<List<Integer>> list = new ArrayList<List<Integer>>(); ```<br>
