@@ -68,6 +68,10 @@ Math Functions:<br>
 Sort an array<br>
 ```Arrays.sort(nameOfArray);```
 
+Arrays<br>
+int array<br>
+``` int a[] = new int[5] ```
+
 List is an interface in Java. You need to instantiate the actual implementation, be it ArrayList or LinkedList, to use a List.<br>
 ``` List<String> myList = new ArrayList<String>(); ```<br>
 ``` myList.get(0); // Access first element ```<br>
