@@ -44,6 +44,10 @@ LeetCode Problems solved **38**:
   - [ ] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
   - [ ] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
   
+  
+## Big O notation
+provides an upperbound (worst case)
+
 
 ## Miscellaneous Info
 ASCII values:
@@ -60,6 +64,8 @@ XOR(^):<br>
 a ^ b = c<br>
 c ^ a = b<br>
 c ^ b = a<br>
+
+## Python3 Specific Info
 
 
 ## Java Specific Info
