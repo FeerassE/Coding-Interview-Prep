@@ -1,4 +1,4 @@
-# Coding-Interview-Prep
+# Coding Interview Prep
 
 This repo will help me track my progress as well as serve as a place to summarize my notes as I prepare for coding interviews. 
 
