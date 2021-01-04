@@ -66,7 +66,7 @@ c ^ a = b<br>
 c ^ b = a<br>
 
 ## Python3 Specific Info
-Arrays:
+### Arrays:
 
 Lists are functionally arrays in Python. The List class
 implements an array thus has slow inserts/fast appends.
@@ -109,8 +109,6 @@ while x > 5:
 # for loop with indexes
 for i, x in enumerate(list):
    print(i)
-   
-
 ```
 
 2D Arrays:<br>
@@ -129,6 +127,20 @@ Sort:<br>
 ```
 
 ```
+
+
+### Dictionary
+Dictionaries are associative arrays implemented as hashtables in python
+
+Declaration:<br>
+``` myDictionary = {} ```
+
+Existence check:<br>
+``` 
+if "myKey" in myDictionary:
+   return True
+```
+   
 
 ## Java Specific Info
 Math Functions:<br>
