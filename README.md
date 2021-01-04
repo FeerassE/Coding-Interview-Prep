@@ -80,6 +80,9 @@ Append:<br>
 Insert:<br>
 ``` myList.insert(index, elem) ```
 
+Remove at index:<br>
+``` myList.pop(index) ```
+
 Length of a list:<br>
 ```len(myList)```
 
@@ -103,6 +106,11 @@ while x > 5:
 # for loop with indexes
 for i, x in enumerate(list):
    print(i)
+```
+
+Sort:<br>
+```
+
 ```
 
 ## Java Specific Info
