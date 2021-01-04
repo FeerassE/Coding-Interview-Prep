@@ -85,7 +85,6 @@ Length of a list:<br>
 
 Slicing:<br>
 ```
-
 a = [0,1,2,3,4,5]
 a = [includeFrom:excludeFrom]
 a[1:]==[1,2,3,4,5]
