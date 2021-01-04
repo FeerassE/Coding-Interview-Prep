@@ -68,13 +68,30 @@ c ^ b = a<br>
 ## Python3 Specific Info
 Arrays:
 
-Arrays are functionally Lists in Python.
+Arrays are functionally Lists in Python. The List class
+implements an array thus slow inserts/fast appends.
 
 Declaration:<br>
-myList = []
+```myList = []```
+
+Append:<br>
+``` myList.append(3) ```
+
+Insert:<br>
+``` myList.insert(index, elem) ```
 
 Length of a list:<br>
-len(myList)
+```len(myList)```
+
+Slicing:<br>
+```
+
+a = [0,1,2,3,4,5]
+a = [includeFrom:excludeFrom]
+a[1:]==[1,2,3,4,5]
+a[:5]==[0,1,2,3,4]
+a[1:2]==[1]
+```
 
 Loops:
 ```
