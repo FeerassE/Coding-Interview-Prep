@@ -140,7 +140,13 @@ Existence check:<br>
 if "myKey" in myDictionary:
    return True
 ```
-   
+
+Loops:<br>
+```
+for key, value in d.items():
+   print(key)
+   print(value)
+```
 
 ## Java Specific Info
 Math Functions:<br>
@@ -163,7 +169,6 @@ List is an interface in Java. You need to instantiate the actual implementation,
 ``` List<List<Integer>> list = new ArrayList<List<Integer>>(); ```<br>
 Then add rows when necessary<br>
 ``` list.add(new ArrayList<Integer>()); ```<br>
-
 
 
 Sets:<br>
