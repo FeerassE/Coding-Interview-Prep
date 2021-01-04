@@ -68,8 +68,8 @@ c ^ b = a<br>
 ## Python3 Specific Info
 Arrays:
 
-Arrays are functionally Lists in Python. The List class
-implements an array thus slow inserts/fast appends.
+Lists are functionally arrays in Python. The List class
+implements an array thus has slow inserts/fast appends.
 
 Declaration:<br>
 ```myList = []```
@@ -113,6 +113,18 @@ for i, x in enumerate(list):
 
 ```
 
+2D Arrays:<br>
+```
+a = [[1, 2, 3], [4, 5, 6]]
+a[0][1] == 2
+a[0][0] == 1
+a[1][0] == 4
+
+for row in a:
+   for elem in row:
+      print(elem)
+```
+
 Sort:<br>
 ```
 
@@ -149,7 +161,7 @@ associated functions: contains(value);
 Maps<br>
 ``` Map<String, Integer> myHashMap = new HashMap<String, Integer>(); // key value pairs```
 
-## LeetCode Patterns and Strategies
+## Patterns and Strategies
 
 
 Comparing Two Strings:
