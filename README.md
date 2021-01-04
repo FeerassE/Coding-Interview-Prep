@@ -96,6 +96,13 @@ Loops:
 ```
 for x in myList:
    print(x)
+  
+while x > 5:
+   x -= 1
+
+# for loop with indexes
+for i, x in enumerate(list):
+   print(i)
 ```
 
 ## Java Specific Info
