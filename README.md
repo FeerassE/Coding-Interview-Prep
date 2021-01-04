@@ -99,6 +99,9 @@ Loops:
 ```
 for x in myList:
    print(x)
+   
+for i in range(len(x)):
+   print(i)
   
 while x > 5:
    x -= 1
@@ -106,6 +109,8 @@ while x > 5:
 # for loop with indexes
 for i, x in enumerate(list):
    print(i)
+   
+
 ```
 
 Sort:<br>
