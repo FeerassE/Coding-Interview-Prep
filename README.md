@@ -66,7 +66,21 @@ c ^ a = b<br>
 c ^ b = a<br>
 
 ## Python3 Specific Info
+Arrays:
 
+Arrays are functionally Lists in Python.
+
+Declaration:<br>
+myList = []
+
+Length of a list:<br>
+len(myList)
+
+Loops:
+```
+for x in myList:
+   print(x)
+```
 
 ## Java Specific Info
 Math Functions:<br>
