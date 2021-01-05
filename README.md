@@ -129,7 +129,7 @@ Sort:<br>
 ```
 
 
-### Dictionary
+### Dictionaries
 Dictionaries are associative arrays implemented as hashtables in python
 
 Declaration:<br>
@@ -143,9 +143,14 @@ if "myKey" in myDictionary:
 
 Loops:<br>
 ```
+#loop over a python dictionary
 for key, value in d.items():
    print(key)
    print(value)
+
+# key is a letter, the value is the furthest index of the letter in the string
+# loops over each letter in the string and saves the letter and the last position it was found in the string, into the dictionary
+myDictionary = {letter:i for i, letter in enumerate(S)}
 ```
 
 ## Java Specific Info
