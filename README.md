@@ -155,6 +155,16 @@ for key, value in d.items():
 myDictionary = {letter:i for i, letter in enumerate(S)}
 ```
 
+### Math
+
+```
+import Math
+
+Math.sqrt(7) == 2.6457513110645907
+
+Math.floor(2.6) == 2
+```
+
 ## Java Specific Info
 Math Functions:<br>
 ``` Math.pow(a,b); // returns a double, so make sure to type cast to int (int) ```<br>
