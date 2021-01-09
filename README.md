@@ -66,6 +66,18 @@ c ^ a = b<br>
 c ^ b = a<br>
 
 ## Python3 Specific Info
+
+### Strings:
+
+Declaration:<br>
+myString = "hello world"
+
+Find a substring:<br>
+```
+# find() returns the lowest index of a substring
+myString.find(substringToFind, indexWhereToStartSearch, indexWhereToEndSearch)
+```
+
 ### Arrays:
 
 Lists are functionally arrays in Python. The List class
