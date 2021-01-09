@@ -212,3 +212,23 @@ Maps<br>
 
 Comparing Two Strings:
 - use a frequency map
+
+Dynamic Programming:
+```
+    Types of Problems
+    0/1 Knapsack
+    Unbounded Knapsack
+    Shortest Path (eg: Unique Paths I/II)
+    Fibonacci Sequence (eg: House Thief, Jump Game)
+    Longest Common Substring/Subsequeunce
+```
+
+
+- Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk <br>
+- Break down of how to attempt a DP question: https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
+
+
+
+
+
+
