@@ -210,10 +210,10 @@ Maps<br>
 ## Patterns and Strategies
 
 
-Comparing Two Strings:
+### Comparing Two Strings:
 - use a frequency map
 
-Dynamic Programming:
+### Dynamic Programming:
 ```
     Types of Problems
     0/1 Knapsack
