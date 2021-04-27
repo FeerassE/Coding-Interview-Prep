@@ -110,8 +110,6 @@ or
 
 ```
 
-```
-
 ### Arrays:
 
 Lists are functionally arrays in Python. The List class
