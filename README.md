@@ -153,6 +153,10 @@ while x > 5:
 # for loop with indexes
 for i, x in enumerate(list):
    print(i)
+   
+# for loop starting at index 2
+for item in myList[2:]:
+    print(item)
 ```
 
 2D Arrays:<br>
