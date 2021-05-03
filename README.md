@@ -14,7 +14,7 @@ If you haven't, try one of these:
 "When I consider everything that grows<br>
 Holds in perfection but a little moment;"
 
-LeetCode Problems solved **38**:
+LeetCode Problems solved **62**:
 
 ## Tasks:
 - [ ] Review any data structures with weak understanding
@@ -242,6 +242,10 @@ associated functions: contains(value);
 
 Maps<br>
 ``` Map<String, Integer> myHashMap = new HashMap<String, Integer>(); // key value pairs```
+
+## Sorting Algorithms
+- Abdul Bari QuickSort https://www.youtube.com/watch?v=7h1s2SojIRw
+
 
 ## Patterns and Strategies
 
