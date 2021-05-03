@@ -264,6 +264,7 @@ Maps<br>
 ```
 
 - Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk <br>
+- Abdul Bari's playlist https://www.youtube.com/watch?v=5dRGRueKU3M
 - Break down of how to attempt a DP question: https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions.
 
 
