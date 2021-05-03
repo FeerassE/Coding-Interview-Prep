@@ -250,8 +250,8 @@ Maps<br>
 ## Patterns and Strategies
 
 ### List of problems
-- https://seanprashad.com/leetcode-patterns/
-
+- Leetcode Patterns https://seanprashad.com/leetcode-patterns/
+- TeamBlind curated list https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ### Comparing Two Strings:
 - use a frequency map
