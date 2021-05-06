@@ -257,7 +257,7 @@ Maps<br>
 - use a frequency map
 
 ### Dynamic Programming:
-
+Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk
 ```
     Types of Problems
     0/1 Knapsack
@@ -268,8 +268,6 @@ Maps<br>
 ```
 - list of beginner DP problems: https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
 - list of DP problems: https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
-
-- Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk <br>
 - Abdul Bari's dynamic programming video https://www.youtube.com/watch?v=5dRGRueKU3M
 - Break down of how to attempt a DP question: https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions
 - Dynamic Programming Pattern article: https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
