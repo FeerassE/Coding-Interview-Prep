@@ -130,6 +130,12 @@ Remove at index:<br>
 Length of a list:<br>
 ```len(myList)```
 
+Initialize:<br>
+```
+myList = [None for x in range(6)]
+myList2D = [[None for x in range(6)] for y in range(6)]
+```
+
 Slicing:<br>
 ```
 a = [0,1,2,3,4,5]
