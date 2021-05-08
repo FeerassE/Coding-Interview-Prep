@@ -273,7 +273,18 @@ Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk
 - Dynamic Programming Pattern article: https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 
 
-
-
-
+### Behavioural Questions:
+- What are you looking for in your next role? Why this company?
+- Tell me about a time when you had to work with a cross-functional team to solve a problem.
+- Tell me about a time when you demonstrated a bias for action.
+- Tell me about a time when you took ownership of a project or process and improved it.
+- Tell me about a time when you had to deal with ambiguity.
+- Tell me about a time when you disagreed with someone or had to resolve a disagreement.
+- Tell me about a time when you led a project that failed. Why did it fail and what did you learn?
+- What is your management style?
+- How do you know that your team is working optimally?
+- How do you handle low-performers?
+- How do you approach solving complex problems?
+- How do you evaluate buying vs. building technology?
+- What is your approach to recruiting talent?
 
