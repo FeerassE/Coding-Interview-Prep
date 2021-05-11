@@ -279,7 +279,7 @@ Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk
 - Dynamic Programming Pattern article: https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
 
 
-### Behavioural Questions:
+## Behavioural Questions:
 - What are you looking for in your next role? Why this company?
 - Tell me about a time when you had to work with a cross-functional team to solve a problem.
 - Tell me about a time when you demonstrated a bias for action.
