@@ -272,6 +272,7 @@ Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk
     Fibonacci Sequence (eg: House Thief, Jump Game)
     Longest Common Substring/Subsequeunce
 ```
+- Kadane's Algorithm: https://medium.com/@rsinghal757/kadanes-algorithm-dynamic-programming-how-and-why-does-it-work-3fd8849ed73d
 - list of beginner DP problems: https://leetcode.com/discuss/general-discussion/662866/DP-for-Beginners-Problems-or-Patterns-or-Sample-Solutions
 - list of DP problems: https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
 - Abdul Bari's dynamic programming video https://www.youtube.com/watch?v=5dRGRueKU3M
