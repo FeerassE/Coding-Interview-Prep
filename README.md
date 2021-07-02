@@ -179,7 +179,8 @@ for row in a:
 
 Sort:<br>
 ```
-
+Ascending: myList.sort()
+Descending: myList.sort(reverse = True)
 ```
 
 
