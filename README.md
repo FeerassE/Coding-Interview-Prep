@@ -163,6 +163,10 @@ for i, x in enumerate(list):
 # for loop starting at index 2
 for item in myList[2:]:
     print(item)
+    
+# reverse for loop:
+for i in range(len(myArray), 0, -1):
+   print(i)
 ```
 
 2D Arrays:<br>
