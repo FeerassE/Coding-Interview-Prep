@@ -78,6 +78,15 @@ Find a substring:<br>
 myString.find(substringToFind, indexWhereToStartSearch, indexWhereToEndSearch)
 ```
 
+### Data Types:
+```
+# convert a char to an int
+myNum = ord('a')
+
+# convert an int to a char
+myChar = chr(97)
+```
+
 ### Control Flow:
 ```
 if x < 0:
