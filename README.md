@@ -85,6 +85,9 @@ myNum = ord('a')
 
 # convert an int to a char
 myChar = chr(97)
+
+# convert an int to a string
+myChar = str(97)
 ```
 
 ### Control Flow:
