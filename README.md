@@ -78,7 +78,7 @@ Find a substring:<br>
 myString.find(substringToFind, indexWhereToStartSearch, indexWhereToEndSearch)
 ```
 
-### Data Types Conversion:
+### Data Type Conversion:
 ```
 # convert a char to an int
 myNum = ord('a')
