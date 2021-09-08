@@ -69,6 +69,17 @@ c ^ b = a<br>
 
 ## Python3 Specific Info
 
+### Max and Min Numbers
+
+```
+# These are for initializing maximum and minimum values
+Max Number:
+float('inf')
+
+Min:
+float('-inf')
+```
+
 ### Strings:
 
 Declaration:<br>
