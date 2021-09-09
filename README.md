@@ -247,6 +247,12 @@ import Math
 Math.sqrt(7) == 2.6457513110645907
 
 Math.floor(2.6) == 2
+
+# Division
+# Floor Division operator is //
+5 / 2 >> 2
+5.0 / 2 >> 2.5
+5.0 // 2 >> 2
 ```
 
 ## Java Specific Info
