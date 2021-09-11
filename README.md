@@ -91,6 +91,12 @@ Find a substring:<br>
 myString.find(substringToFind, indexWhereToStartSearch, indexWhereToEndSearch)
 ```
 
+Iterating over a string: <br>
+```
+for char in myString:
+   print(char)
+```
+
 ### Data Type Conversion:
 ```
 # convert a char to an int
