@@ -82,7 +82,9 @@ float('-inf')
 
 ### Strings:
 Essential information:
+
 Python strings are immutable. They cannot be modified.
+
 You must turn them into lists.
 
 ```
