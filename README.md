@@ -221,7 +221,11 @@ for item in myList[2:]:
     print(item)
     
 # reverse for loop:
-for i in range(len(myArray), 0, -1):
+for i in range(len(myArray) - 1, -1, -1):
+   print(i)
+
+# range function arguments
+for i in range(startIncluding, endExcluding, stepAdded):
    print(i)
 ```
 
