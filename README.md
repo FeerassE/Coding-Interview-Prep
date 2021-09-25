@@ -315,7 +315,7 @@ myList.append(15)
 print(myList)
 # >>> [11,12,13,14,15]
 ```
-Queue 
+Queue implementation:
 
 This is Python's built in Queue module (library).
 
