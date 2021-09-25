@@ -290,6 +290,53 @@ Math.floor(2.6) == 2
 5.0 // 2 >> 2
 ```
 
+### Data Structres
+
+#### Queue (FIFO):
+
+Think of a queue to see a movie. 
+
+First person to get In to the ine, is the First to go Out of the line to see the movie.
+
+First In First Out (FIFO)
+
+List implementation (slow removal):
+
+```
+# Using a List is slow
+myList = [10, 11, 12, 13, 14]
+
+myList.pop(0) 
+print(myList)
+# >>> [11, 12, 13, 14]
+# This is an O(N) operation because all elements must now be shifted to the left.
+
+myList.append(15)
+print(myList)
+# >>> [11,12,13,14,15]
+```
+Queue 
+
+This is Python's built in Queue module (library).
+
+```
+import queue
+
+myQueue = queue.Queue()
+# We call the queue constructor to build a Queue for us
+
+myQueue.put("firstElement")
+myQueue.put("secondElement)
+print(myQueue.qsize())
+# >>> 2
+myQueue.get()
+myQueue.get()
+print(myQueue.qsize())
+# >>> 0
+print(myQueue.empty())
+# >>> True
+```
+
 ## Java Specific Info
 Math Functions:<br>
 ``` Math.pow(a,b); // returns a double, so make sure to type cast to int (int) ```<br>
