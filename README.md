@@ -81,6 +81,19 @@ float('-inf')
 ```
 
 ### Strings:
+Essential information:
+Python strings are immutable. They cannot be modified.
+You must turn them into lists.
+
+```
+myString = "hello world"
+myString = list(myString)
+# >>> myString is ['w', 'e', 'l', 'l', 'o', ' ', 'w', 'o', 'r', 'l', 'd']
+# let's turn it back into a string
+myString = "".join(myString)
+print(myString)
+# >>> myString is "hello world"
+```
 
 Declaration:<br>
 myString = "hello world"
@@ -95,6 +108,16 @@ Iterating over a string: <br>
 ```
 for char in myString:
    print(char)
+```
+
+String concatenation:
+```
+myString = "hello "
+newString = myString + "world"
+print(myString)
+# hello 
+print(newString)
+# hello world
 ```
 
 ### Data Type Conversion:
