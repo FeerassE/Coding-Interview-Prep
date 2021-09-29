@@ -347,6 +347,7 @@ Last in first out.
 ### Destructure
 
 [Helpful guide](https://blog.teclado.com/destructuring-in-python/)
+
 Destructuring in python means breaking composite strucutres into their individual parts. <br>
 
 ```
