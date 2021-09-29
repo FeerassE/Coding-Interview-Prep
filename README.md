@@ -317,9 +317,9 @@ print(myList)
 ```
 Queue implementation:
 
-This is Python's built in Queue module (library).
-
 ```
+# This is Python's built in Queue module (library).
+
 import queue
 
 myQueue = queue.Queue()
@@ -335,6 +335,37 @@ print(myQueue.qsize())
 # >>> 0
 print(myQueue.empty())
 # >>> True
+```
+
+#### Stack (LIFO):
+Last in first out.
+
+```
+# Simply use .pop() and .append()
+```
+
+### Destructure
+
+[Helpful guide](https://blog.teclado.com/destructuring-in-python/)
+Destructuring in python means breaking composite strucutres into their individual parts. <br>
+
+```
+# Tuples are represented by a comma, and we are breaking the tuple below into separate parts:
+x, y = 5, 2
+# or
+x, y = (5, 2)
+
+# Using enumerate returns an enumerate objects which contains a tuple for each item in the collection.
+# Each tuple contains a counter and the value from the original collection.
+
+myList = ["A", "B", "C"]
+
+for counter, letter in enumerate(myList):
+   print(str(counter) + " " + letter)
+
+# >>> 0 A
+# >>> 1 B
+# >>> 2 C
 ```
 
 ## Java Specific Info
