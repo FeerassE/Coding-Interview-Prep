@@ -39,8 +39,8 @@ AlgoExpert Problems solved: **27**
   - [x] Topological sort (Task scheduling)
 
 - [ ] [Review Binary Search](https://www.youtube.com/watch?v=C2apEw9pgtw) (only check off when you can recreate from memory)
-      - https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook
-      - https://leetcode.com/problems/koko-eating-bananas/discuss/769702/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems.
+         - https://leetcode.com/problems/binary-search/discuss/423162/Binary-Search-101-The-Ultimate-Binary-Search-Handbook
+         - https://leetcode.com/problems/koko-eating-bananas/discuss/769702/Python-Clear-explanation-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems.
 
 - [ ] [Review Breadth First and Depth First Search](https://www.youtube.com/watch?v=pcKY4hjDrxk) (only check off when you can recreate from memory)
 
