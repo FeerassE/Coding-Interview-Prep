@@ -284,7 +284,7 @@ import Math
 Math.sqrt(7) == 2.6457513110645907
 
 Math.floor(2.6) == 2
-
+Math.ceil(2.6) == 3
 # Division
 # Floor Division operator is //
 5 / 2 >> 2
@@ -344,6 +344,24 @@ Last in first out.
 
 ```
 # Simply use .pop() and .append()
+```
+
+#### Heap/Priority Queue:
+A heap is a binary tree where each node has the smallest value in it's subtree (aka among all it's children).
+A heap and priority queue are the same I believe.
+
+```
+# You can use an empty list as a heap or call the heapify function on a list to turn it into a heap in place.
+
+h = []
+heapify(h)
+
+# heappush to push item onto heap
+heapq.heappush(h, item)
+
+# heappop to return smallest item in heap
+heapq.heappop(h)
+
 ```
 
 ### Destructure
