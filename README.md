@@ -14,9 +14,9 @@ If you haven't, try one of these:
 "When I consider everything that grows<br>
 Holds in perfection but a little moment;"
 
-LeetCode Problems solved: **62**
+LeetCode Problems solved: **76**
 
-AlgoExpert Problems solved: **27**
+AlgoExpert Problems solved: **43**
 
 ## Tasks:
 - [ ] Review any data structures with weak understanding
