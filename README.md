@@ -298,7 +298,7 @@ Math.ceil(2.6) == 3
 
 Think of a queue to see a movie. 
 
-First person to get In to the ine, is the First to go Out of the line to see the movie.
+First person to get In to the ine, is the First to go Out of the line to see the movie. (Thanks to a first year TA for that analogy)
 
 First In First Out (FIFO)
 
@@ -341,9 +341,9 @@ print(myQueue.empty())
 
 #### Stack (LIFO):
 Last in first out.
-
+Think of a stack of pancakes. The last pancake you put on the stack is the first one you can grab and eat. (Thanks to a first year TA for that analogy)
 ```
-# Simply use .pop() and .append()
+# Simply use .pop() and .append() on a list.
 ```
 
 #### Heap/Priority Queue:
