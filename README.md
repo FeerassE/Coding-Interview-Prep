@@ -364,6 +364,46 @@ heapq.heappop(h)
 
 ```
 
+
+
+### Graphs
+
+#### Depth First Search
+
+
+#### Breadth First Search
+
+
+#### PreOrder, InOrder, PostOrder Traversal
+Look at where the print statements are.
+```
+# Preorder Traversal
+
+def traverse(tree):
+   if tree:
+      print(tree)
+      traverse(tree.left)
+      traverse(tree.right)
+      
+# Inorder Traversal
+
+def traverse(tree)
+   if tree:
+      traverse(tree.left)
+      
+      print(tree)
+      traverse(tree.right)
+      
+# Postorder Traversal
+
+def traverse(tree)
+   if tree:
+      traverse(tree.left)
+      traverse(tree.right)
+      print(tree)
+```
+
+
 ### Destructure
 
 [Helpful guide](https://blog.teclado.com/destructuring-in-python/)
