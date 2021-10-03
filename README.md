@@ -226,7 +226,7 @@ for item in myList[2:]:
 for i in range(len(myArray) - 1, -1, -1):
    print(i)
    
-for i in [::-1]:
+for i in myList[::-1]:
    print(i)
 
 # range function arguments
