@@ -225,6 +225,9 @@ for item in myList[2:]:
 # reverse for loop:
 for i in range(len(myArray) - 1, -1, -1):
    print(i)
+   
+for i in [::-1]:
+   print(i)
 
 # range function arguments
 for i in range(startIncluding, endExcluding, stepAdded):
@@ -247,6 +250,13 @@ Sort:<br>
 ```
 Ascending: myList.sort()
 Descending: myList.sort(reverse = True)
+```
+
+List Comprehension: <br>
+A great way to generate lists in a compact way.
+```
+# newList = [expression for item in list]
+myList = [item * 2 for item in otherList]
 ```
 
 
