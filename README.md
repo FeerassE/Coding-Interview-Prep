@@ -553,7 +553,7 @@ Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk
 - Abdul Bari's dynamic programming video https://www.youtube.com/watch?v=5dRGRueKU3M
 - Break down of how to attempt a DP question: https://leetcode.com/problems/target-sum/discuss/455024/DP-IS-EASY!-5-Steps-to-Think-Through-DP-Questions
 - Dynamic Programming Pattern article: https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
-
+- Guide on how to solve DP problems: https://leetcode.com/discuss/study-guide/1490172/Dynamic-programming-is-simple
 
 ## Behavioural Questions:
 - What are you looking for in your next role? Why this company?
