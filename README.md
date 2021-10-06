@@ -468,6 +468,7 @@ def traverse(tree)
       print(tree)
 ```
 
+### Python Tips and Tricks
 
 ### Destructure
 
@@ -492,6 +493,13 @@ for counter, letter in enumerate(myList):
 # >>> 0 A
 # >>> 1 B
 # >>> 2 C
+```
+
+### Use Asterick to Unpack Iterable
+```
+>>> fruits = ['apple ', 'orange ', 'banana ', 'pear ']
+>>> print(*fruits)
+apple orange banana pear
 ```
 
 ## Java Specific Info
