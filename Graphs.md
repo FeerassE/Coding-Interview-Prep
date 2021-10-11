@@ -3,6 +3,8 @@
 
 #### Depth First Search
 
+Time Complexity: O(|V| + |E|)
+
 ```
 # Recursive
 def dfs(node, visited)
@@ -37,6 +39,7 @@ def dfs(tree, visited)
 ```
 #### Breadth First Search
 
+Time Complexity: O(|V| + |E|)
 
 ```
 # Recursive (need to check if this is correct)
