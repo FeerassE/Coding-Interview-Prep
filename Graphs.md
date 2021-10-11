@@ -23,9 +23,7 @@ def dfs(node, visited)
 
 # this needs TESTING
 def dfs(tree, visited)
-   if visited is None:
-      visited = set()
-   
+   visited = set()
    stack = [tree]
    
    while(len(stack)):
