@@ -1,7 +1,7 @@
 
 # Graphs
 
-#### Depth First Search
+### Depth First Search (Stack)
 
 Time Complexity: O(|V| + |E|)
 
@@ -37,7 +37,7 @@ def dfs(tree, visited)
             continue
       visited.add(node)
 ```
-#### Breadth First Search
+### Breadth First Search (Queue)
 
 Time Complexity: O(|V| + |E|)
 
