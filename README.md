@@ -4,9 +4,11 @@
 "When I consider everything that grows<br>
 Holds in perfection but a little moment;"
 
-This repo will help me track my progress as well as serve as a place to summarize my notes as I prepare for coding interviews. 
+This repo will help me track my progress as well as serve as a place to <br>
+summarize my notes as I prepare for coding interviews. 
 
-This repo will be most helpful to you if you have already taken a data structure and algorithms course or are familiar with those concepts.
+This repo will be most helpful to you if you have already taken a data <br>
+structure and algorithms course or are familiar with those concepts.
 
 If you haven't, try one of these:
 
