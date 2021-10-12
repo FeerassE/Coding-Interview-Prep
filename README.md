@@ -1,5 +1,9 @@
 # Coding Interview Prep
 
+
+"When I consider everything that grows<br>
+Holds in perfection but a little moment;"
+
 This repo will help me track my progress as well as serve as a place to summarize my notes as I prepare for coding interviews. 
 
 This repo will be most helpful to you if you have already taken a data structure and algorithms course or are familiar with those concepts.
@@ -10,9 +14,6 @@ If you haven't, try one of these:
 
 - [ ] [MIT 2011 algorithms course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2&t=0s)
 
-
-"When I consider everything that grows<br>
-Holds in perfection but a little moment;"
 
 LeetCode Problems solved: **76**
 
