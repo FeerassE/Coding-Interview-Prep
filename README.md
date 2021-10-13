@@ -51,7 +51,9 @@ AlgoExpert Problems solved: **43**
   - [ ] [MergeSort](https://www.youtube.com/watch?v=mB5HXBb_HY8)
   - [ ] [QuickSort](https://www.youtube.com/watch?v=7h1s2SojIRw)
   
-  
+- [ ] [Good General Resources by Google](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/)
+
+
 ## Big O notation
 provides an upperbound (worst case)
 
