@@ -7,7 +7,7 @@
 
 Hooks add state to function components.
 
-#### useState
+### useState
 
 useState is a function that allows us to access state from a function component.
 ```
@@ -19,7 +19,7 @@ import React, { useState } from 'react';
 const [currentValue, setValue] = useState(0)
 ```
 
-#### useEffect
+### useEffect
 
 useEffect is a function that allows us to perform side effects on function components. <br>
 It tells React that your component needs to do something after render.
