@@ -40,7 +40,7 @@ useEffect(() => {
 // trigger an effect on state change
 useEffect(() => {
   // do something
-}, [currentValue])
+}, [aStateVariable])
 
 // clean up after an effect
 useEffect(() => {    
