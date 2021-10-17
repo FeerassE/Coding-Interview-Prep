@@ -27,15 +27,19 @@ I think useEffect is asynchronous.
 
 
 ```
-// trigger an effect once
-useEffect(() => {
-  // do something
-}, [])
+/* 
+  useEffect's first paramter is an effect (an anonymous function)
+  useEffect's second parameter is an array of variables, which allow the effect to re-run only when one of the variables changes.
 
 // trigger an effect on every render (which I believe is whenever a prop changes or event happens)
 useEffect(() => {
   // do something
 })
+
+// trigger an effect once
+useEffect(() => {
+  // do something
+}, [])
 
 // trigger an effect on state change
 useEffect(() => {
