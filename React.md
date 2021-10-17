@@ -1,9 +1,9 @@
 # React
 
-### Handling Events
+## Handling Events
 
 
-### Hooks
+## Hooks
 
 Hooks add state to function components.
 
