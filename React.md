@@ -30,23 +30,24 @@ I think useEffect is asynchronous.
 /* 
   useEffect's first paramter is an effect (an anonymous function)
   useEffect's second parameter is an array of variables, which allow the effect to re-run only when one of the variables changes.
+*/
 
-// trigger an effect on every render (which I believe is whenever a prop changes or event happens)
+/* trigger an effect on every render (which I believe is whenever a prop changes or event happens) */
 useEffect(() => {
   // do something
 })
 
-// trigger an effect once
+/* trigger an effect once */
 useEffect(() => {
   // do something
 }, [])
 
-// trigger an effect on state change
+/* trigger an effect on state change */
 useEffect(() => {
   // do something
 }, [aStateVariable])
 
-// clean up after an effect
+/* clean up after an effect (notice that this runs on every update) */
 useEffect(() => {    
   ChatAPI.subscribeToFriendStatus(props.friend.id, handleStatusChange);    // Specify how to clean up after this effect:
   return function cleanup() {     
