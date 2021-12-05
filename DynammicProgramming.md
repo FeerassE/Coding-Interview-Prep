@@ -27,6 +27,8 @@ Problem may ask you to find:
 ### Second Characteristic:
 Earlier choices affect later choices. Such as using one element now prevents the use of another element later.
 
+### *These two characteristics are not sufficient. There are more dp problems.
+
 ## Ways to Implement dp
 
 Top-down (Memoization and Recursion):
