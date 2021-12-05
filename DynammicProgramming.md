@@ -18,13 +18,13 @@ An overview of Dynamic Programming
 
 "The core of the problem is enumeration. Because we are asked to calculate the max or min, we must enumerate all the feasible answers and find max or min among those."[<sup>1</sup>][1]
 
-First Characteristic:
-- Problem may ask you to find:
+### First Characteristic:
+Problem may ask you to find:
 1. Find the min/max
 2. Find the number of ways
 3. Find the longest
 
-Second Characteristic:
+### Second Characteristic:
 Earlier choices affect later choices.
 
 ## Solving a dp problem
