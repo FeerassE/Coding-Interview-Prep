@@ -10,11 +10,24 @@ An overview of Dynamic Programming
 
 "Dynamic programming is a technique for solving problems with overlapping subproblems."[<sup>3</sup>][3]
 
+1. Problem has overlapping subproblems. Smaller problems are reused multiple times.
+2. Problem has an optimal substrucutre. Optimal solution to smaller problems is optimal solution to entire the problem.
+
 ### How to idenfity a Dynamic Programming Problem
 "The normal form of dynamic programming problem is to calculate the maximum or minimum"[<sup>1</sup>][1]
 
 "The core of the problem is enumeration. Because we are asked to calculate the max or min, we must enumerate all the feasible answers and find max or min among those."[<sup>1</sup>][1]
 
+First Characteristic:
+- Problem may ask you to find:
+1. Find the min/max
+2. Find the number of ways
+3. Find the longest
+
+Second Characteristic:
+Earlier choices affect later choices.
+
+## Solving a dp problem
 
 1. Find a recurrence relation
 2. Create a recursive solution
