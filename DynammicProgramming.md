@@ -25,7 +25,7 @@ Problem may ask you to find:
 3. Find the longest
 
 ### Second Characteristic:
-Earlier choices affect later choices.
+Earlier choices affect later choices. Such as using one element now prevents the use of another element later.
 
 ## Ways to Implement dp
 
