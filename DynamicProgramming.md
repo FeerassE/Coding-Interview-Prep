@@ -1,4 +1,4 @@
-# DynamicProgramming
+# Dynamic Programming
 
 Dynamic Programming is a difficult topic. This repository will document my understanding of this topic. 
 Hopefully it will be of some use to you.
