@@ -38,12 +38,30 @@ Bottom-up (Tabulation and Iteration):
  - Start from the base case
  - runtime is usually faster, because no recursion overhead
 
+## Elements of dp problem
+
+1. State variable - contains data describing a relevant scenario to your problem
+2. Function to solution given state
+3. A recurrence relation to transition between states
+4. Base cases to prevent infinite recursion
+
 ## Solving a dp problem
 
 1. Find a recurrence relation
 2. Create a recursive solution
 3. Save underlying subproblems
 4. Turn recursion into iterative loop
+
+Core DP problems:
+
+1. Climbing Stairs
+2. House Robber  
+   1. State: max amount possible at this house
+   2. Recurrence: We take the amount from this house plus max amount two houses before or we take the max amount from the house before
+      dp[i] = max(house[i] + dp[i - 2], dp[i - 1])
+3. Min Cost Climbing Stairs
+4. N-th Tribonacci Number
+
 
 ## Problem Sets
 https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions
