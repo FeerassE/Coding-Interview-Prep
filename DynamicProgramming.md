@@ -61,6 +61,7 @@ Core DP problems:
       dp[i] = max(house[i] + dp[i - 2], dp[i - 1])
 3. Min Cost Climbing Stairs
 4. N-th Tribonacci Number
+5. Longest Common Subsequence
 
 
 ## Problem Sets
