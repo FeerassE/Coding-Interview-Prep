@@ -59,13 +59,19 @@ Core DP problems:
    1. State: max amount possible at this house
    2. Recurrence: We take the amount from this house plus max amount two houses before or we take the max amount from the house before.<br>
       ```dp[i] = max(house[i] + dp[i - 2], dp[i - 1])```
-3. Min Cost Climbing Stairs
-4. N-th Tribonacci Number
-5. Longest Common Subsequence
-6. Maximal Square
+3. Min Cost Climbing Stairs for 1 or 2 steps:
+   1. Recurrence: ``` dp[i] = min(dp[i - 1] + cost[i - 1], dp[i - 2] + cost[i - 2]) ```
+4. Min Cost Climbing Stairs for up to k steps:    
+   1. Recurrence: ``` dp[i] = min(dp[j - k] + cost[j - k] for j in range(i - k, i)) ```
+5. N-th Tribonacci Number
+6. Longest Common Subsequence
+7. Maximal Square
    1. State: side length whose bottom right corner is located at (i,j)
    2. Recurrence: ``` dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - 1], dp[i][j - 1]) + 1 ```
 
+## Analyzing Time and Space Complexity
+
+To find time complexity, look at each of your state variables, compute the number of values each one can represent, and then multiply all these numbers together.
 
 ## Problem Sets
 https://leetcode.com/discuss/general-discussion/662866/Dynamic-Programming-for-Practice-Problems-Patterns-and-Sample-Solutions
