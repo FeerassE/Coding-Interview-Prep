@@ -57,8 +57,8 @@ Core DP problems:
 1. Climbing Stairs
 2. House Robber  
    1. State: max amount possible at this house
-   2. Recurrence: We take the amount from this house plus max amount two houses before or we take the max amount from the house before
-      dp[i] = max(house[i] + dp[i - 2], dp[i - 1])
+   2. Recurrence: We take the amount from this house plus max amount two houses before or we take the max amount from the house before.<\br>
+      ```dp[i] = max(house[i] + dp[i - 2], dp[i - 1])```
 3. Min Cost Climbing Stairs
 4. N-th Tribonacci Number
 5. Longest Common Subsequence
