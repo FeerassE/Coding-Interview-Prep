@@ -68,6 +68,7 @@ Core DP problems:
 7. Maximal Square
    1. State: side length whose bottom right corner is located at (i,j)
    2. Recurrence: ``` dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - 1], dp[i][j - 1]) + 1 ```
+8. Minimum Difficulty of a Job Schedule
 
 ## Analyzing Time and Space Complexity
 
