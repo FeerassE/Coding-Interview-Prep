@@ -62,6 +62,9 @@ Core DP problems:
 3. Min Cost Climbing Stairs
 4. N-th Tribonacci Number
 5. Longest Common Subsequence
+6. Maximal Square
+   1. State: side length whose bottom right corner is located at (i,j)
+   2. Recurrence: ``` dp[i][j] = max(dp[i - 1][j], dp[i - 1][j - 1], dp[i][j - 1]) + 1 ```
 
 
 ## Problem Sets
