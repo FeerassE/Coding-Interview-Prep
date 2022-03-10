@@ -63,7 +63,7 @@ def bfs(tree):
          queue.put(child)
 ```
 
-#### PreOrder, InOrder, PostOrder Traversal
+#### PreOrder, InOrder, PostOrder Traversal (Binary Tree)
 Look at where the print statements are.
 ```
 # Preorder Traversal
@@ -75,6 +75,7 @@ def traverse(tree):
       traverse(tree.right)
       
 # Inorder Traversal
+# Use to get the non-decreasing order for a binary search tree
 
 def traverse(tree)
    if tree:
