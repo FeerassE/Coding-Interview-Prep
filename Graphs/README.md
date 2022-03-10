@@ -40,27 +40,21 @@ def dfs(tree, visited)
 Time Complexity: O(|V| + |E|)
 
 ```
-# Recursive (need to check if this is correct)
-import queue
-def bfs(node, queue):
-   for child in node.children:
-      queue.put(child)
-   
-   if len(queue):
-      bfs(queue.get(),queue)
-
 # Iterative
 import queue
 def bfs(tree):
-
-   queue = queue.Queue()
-   queue.put(tree)
+   visited = {}
+   q = deque()
+   q.append(tree)
+   visited[tree.val] = True
    
-   while(len(queue)):
-      node = queue.get()
+   while q:
+      node = q.popleft()
       
       for child in node.children:
-         queue.put(child)
+         if child not in visited:
+            q.append(child)
+            visited[child.val] = True
 ```
 
 #### PreOrder, InOrder, PostOrder Traversal (Binary Tree)
