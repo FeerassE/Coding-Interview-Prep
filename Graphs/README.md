@@ -1,5 +1,5 @@
 
-# Graphs
+# Graph
 
 ### Depth First Search (Stack)
 
@@ -9,31 +9,30 @@ Time Complexity: O(|V| + |E|)
 # Recursive
 def dfs(node, visited)
    if visited is None:
-      visited = set()
+      visited = {}
       
-   visited.add(node)
-   
+   visited[node.val] = True
    for child in node.children:
-      dfs(child, visited)
+      if child.val not in visited:
+         dfs(child, visited)
 
 # Iterative (use a stack)
 # pop node from stack
 # add the last unvisited child to stack
 # once all children visited, say node is visited
 
-# this needs TESTING
-def dfs(tree, visited)
-   visited = set()
-   stack = [tree]
+def dfs(root, visited)
+   visited = {}
+   stack = deque()
+   stack.append(root)
+   visited[root.val] = True
    
-   while(len(stack)):
+   while stack:
       node = stack.pop()
       for child in node.children:
-         if child not in visited:
-            stack.append(node)
+         if child.val not in visited:
             stack.append(child)
-            continue
-      visited.add(node)
+            visited[child.val] = True
 ```
 ### Breadth First Search (Queue)
 
