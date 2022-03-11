@@ -17,7 +17,7 @@ If you haven't, try one of these:
 - [ ] [MIT 2011 algorithms course](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=2&t=0s)
 
 
-LeetCode Problems solved: **76**
+LeetCode Problems solved: **120**
 
 AlgoExpert Problems solved: **43**
 
