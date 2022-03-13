@@ -5,6 +5,10 @@
 
 Graphs can be represented as adjacency lists or as an adjacency matrix.
 
+When the graph is sparse (few edges where |E| is much less than |V|^2) choose adjacency list.
+
+When the graph is dense (lots of edges where |E| is close to |V|^2) choose adjacency matrix.
+
 ### Depth First Search (Stack)
 
 Time Complexity: O(|V| + |E|)
