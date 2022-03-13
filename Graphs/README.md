@@ -1,18 +1,22 @@
 
 # Graph
 
+## Representations
+
+Graphs can be represented as adjacency lists or as an adjacency matrix.
+
 ### Depth First Search (Stack)
 
 Time Complexity: O(|V| + |E|)
 
 ```
 # Recursive
-def dfs(node, visited)
+def dfs(graph, node, visited)
    if visited is None:
       visited = {}
       
    visited[node.val] = True
-   for child in node.children:
+   for child in graph[node.val]:
       if child.val not in visited:
          dfs(child, visited)
 
@@ -21,7 +25,7 @@ def dfs(node, visited)
 # add the last unvisited child to stack
 # once all children visited, say node is visited
 
-def dfs(root, visited)
+def dfs(graph, root, visited)
    visited = {}
    stack = deque()
    stack.append(root)
@@ -29,7 +33,7 @@ def dfs(root, visited)
    
    while stack:
       node = stack.pop()
-      for child in node.children:
+      for child in graph[node.val]:
          if child.val not in visited:
             stack.append(child)
             visited[child.val] = True
@@ -50,7 +54,7 @@ def bfs(tree):
    while q:
       node = q.popleft()
       
-      for child in node.children:
+      for child in graph[node]:
          if child not in visited:
             q.append(child)
             visited[child.val] = True
