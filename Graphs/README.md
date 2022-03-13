@@ -64,6 +64,21 @@ def bfs(tree):
             visited[child.val] = True
 ```
 
+#### Level by level traversal
+
+```
+def bfs(graph, root, visited):
+   level = [root]
+   while level:
+      newLevel = []
+      
+      for node in level:
+            for child in graph[node]:
+               if child not in visited:
+                  newLevel.append(child)
+      level = newLevel
+```
+
 #### PreOrder, InOrder, PostOrder Traversal (Binary Tree)
 Look at where the print statements are.
 ```
