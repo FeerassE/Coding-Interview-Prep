@@ -67,7 +67,7 @@ def bfs(tree):
 #### Level by level traversal
 
 ```
-def bfs(graph, root, visited):
+def bfsV1(graph, root, visited):
    level = [root]
    while level:
       newLevel = []
@@ -77,6 +77,16 @@ def bfs(graph, root, visited):
                if child not in visited:
                   newLevel.append(child)
       level = newLevel
+      
+def bfsV2(graph, root, visited):
+   q = deque()
+   q.append(root)
+   while q:
+      for _ in range(len(q)):
+         v = q.popleft()
+         print(v)
+         if v.left: q.append(v.left)
+         if v.right: q.append(v.right)
 ```
 
 #### PreOrder, InOrder, PostOrder Traversal (Binary Tree)
