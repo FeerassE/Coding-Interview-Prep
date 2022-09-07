@@ -118,4 +118,5 @@ Excellent beginner video https://www.youtube.com/watch?v=oBt53YbR9Kk
 - How do you approach solving complex problems?
 - How do you evaluate buying vs. building technology?
 - What is your approach to recruiting talent?
+- When was there a time you had a disagreement with someone and how did you resolve that disagreement?
 
